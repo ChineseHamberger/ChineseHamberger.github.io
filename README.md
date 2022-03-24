@@ -1,6 +1,8 @@
 # ChineseHamberger.github.io
 ChineseHamberger(肉夹馍)的github
 =====
+
+
 #作业一：红楼梦人物词频
 [作业一](http://ChineseHamberger.github.io/sunburst.html)
 
