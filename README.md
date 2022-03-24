@@ -2,7 +2,7 @@
 ChineseHamberger肉夹馍的github
 =====
 #作业一：红楼梦人物词频
-[作业一](ChineseHamberger.github.io/sunburst.html)
+[作业一](http://www.ChineseHamberger.github.io/sunburst.html)
 
 
 #作业二：新冠疫情病例热力图
