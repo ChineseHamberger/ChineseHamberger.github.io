@@ -23,7 +23,10 @@ ChineseHamberger(肉夹馍)的github
 2.html练习（4.2）
 
 作业一：我的搜索
+[链接](http://ChineseHamberger.github.io/练习.html)
 
 作业二：我的文件库
+[链接](http://ChineseHamberger.github.io/练习二.html)
 
 作业三：红楼梦人物关系图
+[链接](http://ChineseHamberger.github.io/红楼梦人物关系.html)
