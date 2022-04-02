@@ -3,7 +3,9 @@
 ChineseHamberger(肉夹馍)的github
 
 姓名：张晟杰 学号：2100011488
-#数据可视化
+
+1.数据可视化
+
 作业一：红楼梦人物词频
 该sunburst图统计了红楼梦中出现频次最高的人物
 [链接](http://ChineseHamberger.github.io/sunburst.html)
@@ -17,3 +19,11 @@ ChineseHamberger(肉夹馍)的github
 作业三：中国地区GDP与居民人均可支配收入的关系
 该组合图表展示了近9年的GDP数据，数据来源于国家数据库
 [链接](http://ChineseHamberger.github.io/中国地区GDP与居民人均可支配收入的关系.html)
+
+2.html练习（4.2）
+
+作业一：我的搜索
+
+作业二：我的文件库
+
+作业三：红楼梦人物关系图
