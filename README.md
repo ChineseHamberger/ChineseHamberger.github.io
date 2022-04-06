@@ -29,4 +29,4 @@ ChineseHamberger(肉夹馍)的github
 [链接](http://ChineseHamberger.github.io/练习二.html)
 
 作业三：红楼梦人物关系图
-[链接](https://chinesehamberger.github.io/%E5%85%B3%E7%B3%BB%E5%9B%BE-%E5%88%86%E7%B1%BB-%E7%BA%A2%E6%A5%BC%E6%A2%A6%E4%BA%BA%E7%89%A9.html)
+[链接](https://ChineseHamberger.github.io/练习三.html)
