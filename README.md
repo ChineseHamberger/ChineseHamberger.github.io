@@ -2,7 +2,6 @@
 # ChineseHamberger.github.io
 ChineseHamberger(肉夹馍)的github
 
-姓名：张晟杰 学号：2100011488
 
 1.数据可视化
 
